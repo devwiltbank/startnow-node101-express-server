@@ -1,0 +1,35 @@
+ 
+/*********************************************\
+|   CSS Style by Devin Wiltbank               |
+|   dev.w@gmx.com     8/21/2018               |  
+\*___________________________________________*/
+
+
+body {
+font-size:12px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+padding: 30px;
+border: 1px solid blue;
+border-width: 3px 0 0 0;
+}
+
+table td {
+border: 1px solid red;
+border-width: 0 0 1px 1px;
+
+}
+
+.names {
+    white-space: nowrap;
+}
+
+.descr {
+
+}
+
+.links {
+    white-space: nowrap;
+}
